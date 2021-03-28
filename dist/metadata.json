@@ -1,0 +1,44 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.3",
+  "author": {
+    "name": "ImKyleJK",
+    "id": "625470157300564009"
+  },
+  "service": "DiscordLink",
+  "description": {
+    "en": "Discord server listing made simple. Gain thousands of members just by listing your server on our site!"
+  },
+  "url": [
+    "discordlink.me",
+    "www.discordlink.me",
+    "disc.click",
+    "www.disc.click",
+    "disc.quest",
+    "ww.disc.quest"
+  ],
+  "version": "1.0.0",
+  "logo": "https://discordlink.me/cdn/Ujs82nsPxz.png",
+  "thumbnail": "discordlink.me/cdn/nHlgAAAABJRU5ErkJggg.png",
+  "color": "#64DD17",
+  "tags": [
+    "discord",
+    "server",
+    "growth",
+    "official",
+    "partner"
+  ],
+  "settings": [
+    {
+      "id": "lang",
+      "multiLanguage": false
+    },
+    {
+    "id": "HOME",
+    "title": "Home Page",
+    "icon": "fas fa-home",
+    "value": true 
+  }
+  ],
+  "iframe": true,
+  "category": "other"
+} 
