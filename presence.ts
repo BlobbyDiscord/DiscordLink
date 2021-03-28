@@ -13,7 +13,7 @@ presence.on("UpdateData", () => {
   if (window.location.pathname.endsWith("/")) {
     presenceData.details = "Viewing a page:";
     presenceData.state = "Home Page";
-  } else if (window.location.pathname.endsWith("add")) {
+  } else if (window.location.pathname.endsWith("/add")) {
     presenceData.details = "Adding a server";
   } else if (window.location.pathname.endsWith("/view")) {
     presenceData.details = "Viewing a server";
